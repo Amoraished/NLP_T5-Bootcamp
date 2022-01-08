@@ -45,7 +45,7 @@ The topic model can accomplish the task of clustering and classification of  dat
 ## Authors 
 - [@Aya11salem] (http://github.com/Alya11salem)
 - [@aofahad] (https://github.com/aofahad)
--[@Amoraished] (https://github.com/Amoraished)
+- [@Amoraished] (https://github.com/Amoraished)
 - [@](https://github.com/)
 
 
